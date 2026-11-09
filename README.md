@@ -1,3 +1,5 @@
+![Skills para Ask AI de GoHighLevel: 8 skills en español para agencias, gratis, licencia MIT](assets/banner.png)
+
 # Skills para Ask AI de GoHighLevel
 
 Skills en español, listas para subir al Ask AI de GoHighLevel. Cada una es un archivo `SKILL.md` que le enseña a Ask AI a hacer una tarea de agencia siempre igual y bien.
