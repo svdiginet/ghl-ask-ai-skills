@@ -2,7 +2,7 @@
 
 Skills en español, listas para subir al Ask AI de GoHighLevel. Cada una es un archivo `SKILL.md` que le enseña a Ask AI a hacer una tarea de agencia siempre igual y bien.
 
-Hechas por [SVDIGINET](https://svdiginet.com) y publicadas en [Prompt13](https://prompt13.com/guias/skills-ask-ai-gohighlevel), a partir de los prompts que usamos con clientes reales.
+Hechas por [SVDIGINET](https://svdiginet.com) y publicadas en [Prompt13](https://prompt13.com/blog/skills-ask-ai-gohighlevel), a partir de los prompts que usamos con clientes reales.
 
 ## Las skills
 
