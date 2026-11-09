@@ -36,7 +36,7 @@ Para usarla, llámala con su comando de barra `/` o pídele la tarea a Ask AI co
 
 ## Licencia
 
-MIT. Úsalas, adáptalas y compártelas. Si las publicas, menciona a Prompt13.
+MIT. Úsalas, adáptalas y compártelas. Si las publicas, agradecemos una mención a Prompt13, pero no es obligatoria.
 
 ---
 
