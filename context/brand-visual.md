@@ -4,7 +4,7 @@
 
 Presentation: public
 
-Public repository. A README banner is pending; until it is reviewed, the repository is public but not presentation-ready.
+The public README uses [assets/banner.png](../assets/banner.png). The [pre-publish review](audits/2026-11-09-pre-publish.md) records the visual check for brand fit, headline legibility at GitHub header width, and third-party marks.
 
 ## Banner Intent
 
